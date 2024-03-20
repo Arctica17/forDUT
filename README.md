@@ -2,18 +2,77 @@
 
 ## "乐在大工" 以及时反馈机制为核心的大工开发区学生系统
 
-*～Prototype by Atmoic Cloud～*
+*～Prototype by Atomic Cloud～*
 
 [![License](https://img.shields.io/github/license/Arctica17/forDUT?label=License&style=flat&color=7e57c2)](./LICENSE)
 [![Contributors](https://img.shields.io/github/contributors/Arctica17/forDUT?label=Contributors&style=flat&color=1e88e5)](https://github.com/Arctica17/zxlnn/graphs/contributors)
 
 </div>
 
+### 树形结构
+
+```sh
+forDUT
+├── 首页
+├── 个人中心
+│   ├── 个人资料
+│   ├── 了解更多
+│   └── 设置
+├── 奖励系统
+│   ├── 奖励主页
+│   └── 奖励详情
+│       ├── 学习活动奖励
+│       ├── 体育活动奖励
+│       └── 社区贡献奖励
+├── 课堂反馈
+│   ├── 课程主页
+│   └── 课程详情
+│       ├── 考核要求
+│       ├── 作业要求
+│       ├── 收集箱
+│       └── 更新与通知
+├── 消息中心
+│   ├── 消息主页
+│   └── 消息详情
+│       ├── 教学反馈
+│       ├── 失物招领
+│       └── 课程提醒
+├── 咨询服务
+│   ├── 咨询主页
+│   └── 咨询详情
+│       ├── 学校通知
+│       ├── 学生内容
+│       └── 举报与反馈
+└── 互助区域
+    ├── 互助主页
+    └── 互助详情
+        ├── 帮帮
+        ├── 完璧归赵
+        └── 举报与反馈
+
+```
+
+---
+
+### 响应式布局
+
+Desktop Small (1200x667)
+
 <div align='center'>
- 
-**原型设计**
+
+<img src="https://github.com/Arctica17/forDUT/assets/95011950/4ef8fdc0-8d1a-4881-b7c7-cd979802b11d" width=60%>
 
 </div>
+
+iPhone 13 / 13 Pro / 12 / 12 Pro (390x844)
+
+<div align='center'>
+
+<img src="https://github.com/Arctica17/forDUT/assets/95011950/51ef1e62-2bfd-4c1b-8280-962e8d7a47d0" width=20%>
+
+</div>
+
+---
 
 ### 注意
 
@@ -71,25 +130,5 @@
 
 - 加入举报机制，抵制不良内容。
 
----
-
-<div align='center'>
-
-**项目特性**
-
-</div>
-
-### 响应式布局
-
-
-
----
-
-### 网页设计
-
-
----
-
-### 遵循GPL-3.0
 
 
