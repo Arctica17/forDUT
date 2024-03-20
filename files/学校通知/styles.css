@@ -44,7 +44,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-size:26px;
+  font-size:20px;
   text-align:left;
 }
 #u2204 {
@@ -55,7 +55,7 @@
   width:900px;
   height:674px;
   display:flex;
-  font-size:26px;
+  font-size:20px;
   text-align:left;
 }
 #u2204 .text {
@@ -2748,7 +2748,7 @@ body.a {  background-color:rgba(255, 254, 254, 1);
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-size:26px;
+  font-size:20px;
   text-align:left;
 }
 #u2204.a {
