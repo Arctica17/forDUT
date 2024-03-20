@@ -60,7 +60,7 @@ Desktop Small (1200x667)
 
 <div align='center'>
 
-<img src="https://github.com/Arctica17/forDUT/assets/95011950/4ef8fdc0-8d1a-4881-b7c7-cd979802b11d" width=60%>
+<img src="https://github.com/Arctica17/forDUT/assets/95011950/1d4a247b-2ae1-411d-a793-037594aff6c9" width=60%>
 
 </div>
 
@@ -68,7 +68,7 @@ iPhone 13 / 13 Pro / 12 / 12 Pro (390x844)
 
 <div align='center'>
 
-<img src="https://github.com/Arctica17/forDUT/assets/95011950/51ef1e62-2bfd-4c1b-8280-962e8d7a47d0" width=20%>
+<img src="https://github.com/Arctica17/forDUT/assets/95011950/50e538a1-610f-4114-98a1-22328bf933c6" width=30%>
 
 </div>
 
